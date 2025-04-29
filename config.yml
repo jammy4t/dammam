@@ -124,15 +124,15 @@ params:
 menu:
   main:
     - identifier: categories
-      name: الأخلاق الفاضلة
+      name: سوق السلع الجديدة
       url: /categories/
       weight: 10
     - identifier: tags
-      name: الأخلاق القاتلة
+      name: سوق السلع المستخدمة
       url: /tags/
       weight: 20
     - identifier: books
-      name: كتب أخلاقية هامة
+      name: سوق الخدمات
       url: /books/
       weight: 30    
     - identifier: archives
