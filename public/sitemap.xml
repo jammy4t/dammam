@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jammy4t.github.io/dammam/posts/2/</loc>
-    <lastmod>2023-06-04T01:21:13+03:00</lastmod>
-  </url><url>
     <loc>https://jammy4t.github.io/dammam/tags/</loc>
     <lastmod>2023-06-04T01:21:13+03:00</lastmod>
   </url><url>
@@ -12,6 +9,9 @@
     <lastmod>2023-06-04T01:21:13+03:00</lastmod>
   </url><url>
     <loc>https://jammy4t.github.io/dammam/</loc>
+    <lastmod>2023-06-04T01:21:13+03:00</lastmod>
+  </url><url>
+    <loc>https://jammy4t.github.io/dammam/posts/2/</loc>
     <lastmod>2023-06-04T01:21:13+03:00</lastmod>
   </url><url>
     <loc>https://jammy4t.github.io/dammam/tags/%D9%83%D8%AA%D8%A8-%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D8%A9/</loc>
