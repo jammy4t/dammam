@@ -38,5 +38,7 @@
     <loc>http://localhost:1313/dammam/contact-us/</loc>
   </url><url>
     <loc>http://localhost:1313/dammam/archives/</loc>
+  </url><url>
+    <loc>http://localhost:1313/dammam/search/</loc>
   </url>
 </urlset>
