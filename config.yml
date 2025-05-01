@@ -17,7 +17,7 @@ taxonomies:
 
 minify:
   disableXML: true
-  minifyOutput: true
+  minifyOutput: false
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.

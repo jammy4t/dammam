@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>سوق الدمام</title>
+    <link>https://jammy4t.github.io/dammam/</link>
+    <description>Recent content on سوق الدمام</description>
+    <image>
+      <title>سوق الدمام</title>
+      <url>https://jammy4t.github.io/dammam/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://jammy4t.github.io/dammam/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ar</language>
+    <lastBuildDate>Sun, 04 Jun 2023 01:21:13 +0300</lastBuildDate><atom:link href="https://jammy4t.github.io/dammam/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>أول سلعة مستخدمة</title>
+      <link>https://jammy4t.github.io/dammam/posts/2/</link>
+      <pubDate>Sun, 04 Jun 2023 01:21:13 +0300</pubDate>
+      
+      <guid>https://jammy4t.github.io/dammam/posts/2/</guid>
+      <description>وصف أول سلعة مستخدمة</description>
+    </item>
+    
+    <item>
+      <title>أول سلعة جديدة</title>
+      <link>https://jammy4t.github.io/dammam/posts/1/</link>
+      <pubDate>Thu, 04 May 2023 01:21:13 +0300</pubDate>
+      
+      <guid>https://jammy4t.github.io/dammam/posts/1/</guid>
+      <description>وصف هذه السلعة الجديدة</description>
+    </item>
+    
+    <item>
+      <title>أول خدمة معروضة</title>
+      <link>https://jammy4t.github.io/dammam/posts/book1/</link>
+      <pubDate>Sat, 04 Mar 2023 01:21:13 +0300</pubDate>
+      
+      <guid>https://jammy4t.github.io/dammam/posts/book1/</guid>
+      <description>وصف أول خدمة معروضة</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jammy4t.github.io/dammam/contact-us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jammy4t.github.io/dammam/contact-us/</guid>
+      <description>contact-us</description>
+    </item>
+    
+    
+  </channel>
+</rss>
