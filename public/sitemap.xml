@@ -2,46 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/dammam/posts/my-first-post/</loc>
+    <loc>https://jammy4t.github.io/dammam/posts/</loc>
     <lastmod>2025-05-01T16:32:58+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/dammam/posts/</loc>
+    <loc>https://jammy4t.github.io/dammam/</loc>
     <lastmod>2025-05-01T16:32:58+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/dammam/</loc>
-    <lastmod>2025-05-01T16:32:58+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/dammam/tags/</loc>
+    <loc>https://jammy4t.github.io/dammam/tags/</loc>
     <lastmod>2025-05-01T01:07:58+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/dammam/posts/2/</loc>
+    <loc>https://jammy4t.github.io/dammam/posts/2/</loc>
     <lastmod>2025-05-01T01:07:58+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/dammam/tags/%D9%83%D8%AA%D8%A8-%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D8%A9/</loc>
+    <loc>https://jammy4t.github.io/dammam/tags/%D9%83%D8%AA%D8%A8-%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D8%A9/</loc>
     <lastmod>2025-05-01T01:07:58+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/dammam/posts/1/</loc>
+    <loc>https://jammy4t.github.io/dammam/posts/1/</loc>
     <lastmod>2023-05-04T01:21:13+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/dammam/categories/</loc>
+    <loc>https://jammy4t.github.io/dammam/categories/</loc>
     <lastmod>2023-05-04T01:21:13+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/dammam/categories/%D9%85%D9%84%D8%A7%D8%A8%D8%B3-%D9%86%D8%B3%D8%A7%D8%A6%D9%8A%D8%A9/</loc>
+    <loc>https://jammy4t.github.io/dammam/categories/%D9%85%D9%84%D8%A7%D8%A8%D8%B3-%D9%86%D8%B3%D8%A7%D8%A6%D9%8A%D8%A9/</loc>
     <lastmod>2023-05-04T01:21:13+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/dammam/posts/book1/</loc>
+    <loc>https://jammy4t.github.io/dammam/posts/book1/</loc>
     <lastmod>2023-03-04T01:21:13+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/dammam/books/</loc>
+    <loc>https://jammy4t.github.io/dammam/books/</loc>
     <lastmod>2023-03-04T01:21:13+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/dammam/books/%D9%83%D8%AA%D8%A7%D8%A8%D8%A9-%D8%A8%D8%AD%D9%88%D8%AB/</loc>
+    <loc>https://jammy4t.github.io/dammam/books/%D9%83%D8%AA%D8%A7%D8%A8%D8%A9-%D8%A8%D8%AD%D9%88%D8%AB/</loc>
     <lastmod>2023-03-04T01:21:13+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/dammam/contact-us/</loc>
+    <loc>https://jammy4t.github.io/dammam/contact-us/</loc>
   </url><url>
-    <loc>http://localhost:1313/dammam/archives/</loc>
+    <loc>https://jammy4t.github.io/dammam/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/dammam/search/</loc>
+    <loc>https://jammy4t.github.io/dammam/search/</loc>
   </url>
 </urlset>
