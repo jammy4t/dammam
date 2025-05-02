@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.147.0</generator>
     <language>ar</language>
-    <lastBuildDate>Thu, 01 May 2025 01:07:58 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 01 May 2025 16:32:58 +0300</lastBuildDate>
     <atom:link href="https://jammy4t.github.io/dammam/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://jammy4t.github.io/dammam/posts/my-first-post/</link>
+      <pubDate>Thu, 01 May 2025 16:32:58 +0300</pubDate>
+      <guid>https://jammy4t.github.io/dammam/posts/my-first-post/</guid>
+      <description></description>
+    </item>
     <item>
       <title>كتاب مستخدم: الديوان الكبير لابن العربي الحاتمي</title>
       <link>https://jammy4t.github.io/dammam/posts/2/</link>
