@@ -9,7 +9,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 defaultContentLanguage: ar
-googleAnalytics: 
+googleAnalytics: G-TELXR3L111
 taxonomies:
   category: categories
   tag: tags
