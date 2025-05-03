@@ -142,18 +142,18 @@ menu:
       name: سوق الخدمات
       url: /books/
       weight: 30    
-    - identifier: archives
-      name: الإرشيف
-      url: /archives/
-      weight: 40  
-    - identifier: contact-us
-      name: اتصل بنا
-      url: /contact-us/
-      weight: 50 
+   # - identifier: archives
+    #  name: الإرشيف
+     # url: /archives/
+      #weight: 40  
+    #- identifier: contact-us
+     # name: اتصل بنا
+      #url: /contact-us/
+      #weight: 50 
     - identifier: search
       name: البحث
       url: /search/
-      weight: 60  
+      weight: 40  
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
