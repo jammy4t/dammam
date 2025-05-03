@@ -130,18 +130,18 @@ params:
     keys: ["title"]
 menu:
   main:
-    - identifier: categories
-      name: سوق السلع الجديدة
-      url: /categories/
-      weight: 10
-    - identifier: tags
+   # - identifier: categories
+    #  name: سوق السلع الجديدة
+     # url: /categories/
+     # weight: 10
+    #- identifier: tags
       name: سوق السلع المستخدمة
       url: /tags/
-      weight: 20
+      weight: 10
     - identifier: books
       name: سوق الخدمات
       url: /books/
-      weight: 30    
+      weight: 20    
    # - identifier: archives
     #  name: الإرشيف
      # url: /archives/
