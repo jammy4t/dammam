@@ -134,7 +134,7 @@ menu:
     #  name: سوق السلع الجديدة
      # url: /categories/
      # weight: 10
-    #- identifier: tags
+    - identifier: tags
       name: سوق السلع المستخدمة
       url: /tags/
       weight: 10
