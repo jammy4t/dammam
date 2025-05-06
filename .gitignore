@@ -2,5 +2,6 @@
 echo "img/*.png" >> .gitignore
 echo "img/*.jpg" >> .gitignore
 echo "img/*.pdf" >> .gitignore
-/public/
+public/
+
 
