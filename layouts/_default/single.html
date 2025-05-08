@@ -21,6 +21,7 @@
       {{- partial "edit_post.html" . -}}
       {{- partial "post_canonical.html" . -}}
       
+
     </div>
     {{- end }}
   </header>
@@ -37,6 +38,8 @@
     {{- else }}{{ .Content }}{{ end }}
   </div>
   {{- end }}
+  
+
 
   <footer class="post-footer">
     {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
