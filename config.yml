@@ -1,5 +1,6 @@
 
-baseURL: "https://jammy4t.github.io/dammam/"
+baseURL: "dammammarket.com"
+publishDir: docs
 title: سوق الدمام
 #paginate: 20
 pagination.pagerSize: 20
