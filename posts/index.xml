@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>المقالات on سوق الدمام</title>
-    <link>http://localhost:1313/dammam/posts/</link>
+    <link>https://jammy4t.github.io/dammam/posts/</link>
     <description>Recent content in المقالات on سوق الدمام</description>
     <image>
       <title>سوق الدمام</title>
-      <url>http://localhost:1313/dammam/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/dammam/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://jammy4t.github.io/dammam/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://jammy4t.github.io/dammam/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.147.0</generator>
     <language>ar</language>
     <lastBuildDate>Sat, 03 May 2025 01:32:13 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/dammam/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jammy4t.github.io/dammam/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>كتاب مستخدم: الأعمال الشعرية الكاملة لنزار قباني الجزء الأول</title>
-      <link>http://localhost:1313/dammam/posts/3/</link>
+      <link>https://jammy4t.github.io/dammam/posts/3/</link>
       <pubDate>Sat, 03 May 2025 01:32:13 +0300</pubDate>
-      <guid>http://localhost:1313/dammam/posts/3/</guid>
+      <guid>https://jammy4t.github.io/dammam/posts/3/</guid>
       <description>&lt;p&gt;للبيع كتاب الأعمال الشعرية الكاملة لنزار قباني الجزء الأول
 السعر:٦٠ ريال
 للتواصل على الجوال أو الواتس آب: ٠٥٥٣٩٢٣٣١٤
@@ -25,34 +25,22 @@
     </item>
     <item>
       <title>أنشئ موقعك السريع ب٥٠٠ ريال</title>
-      <link>http://localhost:1313/dammam/posts/4/</link>
+      <link>https://jammy4t.github.io/dammam/posts/4/</link>
       <pubDate>Sat, 03 May 2025 01:21:13 +0300</pubDate>
-      <guid>http://localhost:1313/dammam/posts/4/</guid>
+      <guid>https://jammy4t.github.io/dammam/posts/4/</guid>
       <description>&lt;p&gt;ننشأ لك موقع إلكتروني ونحجز لك الدومين ونستضيف لك الموقع في موقع مجاني سريع جدا ونسلمك موقعك خلال يوم أو يومين عمل بسعر منافس.&lt;/p&gt;
 &lt;p&gt;السعر: ٥٠٠ ريال
 للإستفسار تواصل معنا على الواتس آب أو الجوال رقم: ٠٥٥٣٩٢٣٣١٤&lt;/p&gt;</description>
     </item>
     <item>
       <title>كتاب مستخدم: الديوان الكبير لابن العربي الحاتمي</title>
-      <link>http://localhost:1313/dammam/posts/2/</link>
+      <link>https://jammy4t.github.io/dammam/posts/2/</link>
       <pubDate>Thu, 01 May 2025 01:07:58 +0300</pubDate>
-      <guid>http://localhost:1313/dammam/posts/2/</guid>
+      <guid>https://jammy4t.github.io/dammam/posts/2/</guid>
       <description>&lt;p&gt;متوفر الديوان الكبير لابن العربي الحاتمي تحقيق ودراسة عبدالإله بن عرفة من اصدار دار الآداب بيروت لبنان.&lt;/p&gt;
 &lt;p&gt;السعر: ٦٠ ريال&lt;/p&gt;
 &lt;p&gt;التسليم في الدمام يدويا
 تواصل على الجوال أو الواتس آب: ٠٥٥٣٩٢٣٣١٤&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>أول سلعة جديدة</title>
-      <link>http://localhost:1313/dammam/posts/1/</link>
-      <pubDate>Thu, 04 May 2023 01:21:13 +0300</pubDate>
-      <guid>http://localhost:1313/dammam/posts/1/</guid>
-      <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/u1Y1Y0MGr4M?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
-&lt;br&gt;
-&lt;!-- raw HTML omitted --&gt;
-وصف هذه السلعة الجديدة&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
