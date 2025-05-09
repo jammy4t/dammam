@@ -1,5 +1,5 @@
-
-baseURL: "https://dammam-360.pages.dev/"
+baseURL: "https://dammammarket.com/"
+#baseURL: "https://dammam-360.pages.dev/"
 title: سوق الدمام
 #paginate: 20
 pagination.pagerSize: 20
