@@ -10,3 +10,5 @@
 /public/
 .hugo_build.lock
 *.log
+/themes/
+/layouts/
