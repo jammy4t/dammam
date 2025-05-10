@@ -5,7 +5,8 @@
 /assets/
 /content/
 /data/
-/layouts/
 /resources/
 /static/
 /public/
+.hugo_build.lock
+*.log
